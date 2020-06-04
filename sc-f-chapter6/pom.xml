@@ -10,7 +10,7 @@
 
     <modules>
         <module>config-server</module>
-<!--        <module>config-client</module>-->
+        <module>config-client</module>
     </modules>
 
     <name>sc-f-chapter6</name>
